@@ -1,0 +1,2 @@
+# Swift Function Negative Input Handling
+This repository demonstrates a bug in a Swift function that calculates the area of a rectangle. The function doesn't handle negative input values correctly.  The solution demonstrates improved error handling.
